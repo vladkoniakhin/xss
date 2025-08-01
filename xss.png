@@ -1,0 +1,5 @@
+<!-- PNG header -->
+‰PNG
+
+<!-- HTML content -->
+<html><body><script>alert('xss')</script></body></html>

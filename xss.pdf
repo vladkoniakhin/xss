@@ -1,0 +1,17 @@
+%PDF-1.5
+1 0 obj
+<< /Type /Catalog /OpenAction 2 0 R >>
+endobj
+2 0 obj
+<< /S /JavaScript /JS (app.alert("XSS via PDF")) >>
+endobj
+xref
+0 3
+0000000000 65535 f 
+0000000010 00000 n 
+0000000061 00000 n 
+trailer
+<< /Root 1 0 R >>
+startxref
+116
+%%EOF
